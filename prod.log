@@ -1,0 +1,163 @@
+24 Feb 2020 16:52:38,792 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=12, price=321.0, color=dsf, dimension=sdf, specification=sdf, manufacturer=sf, quantity=0, productCategory=22, productName=sdf]
+25 Feb 2020 09:02:22,553 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qw, price=12.0, color=we, dimension=re, specification=tr, manufacturer=trt, quantity=0, productCategory=43, productName=ui]
+25 Feb 2020 09:22:01,934 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qw, price=23.0, color=ee, dimension=rr, specification=tt, manufacturer=yy, quantity=0, productCategory=76, productName=tty]
+25 Feb 2020 09:22:10,124 INFO main com.capgemini.go.dao.ProductDaoImpl - deleted products :qw
+25 Feb 2020 09:38:05,123 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=12, price=12.0, color=1212, dimension=1212, specification=1212, manufacturer=121, quantity=0, productCategory=1221, productName=121]
+25 Feb 2020 09:40:03,642 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=11, price=23.0, color=4, dimension=5, specification=6, manufacturer=7, quantity=0, productCategory=9, productName=5]
+25 Feb 2020 09:40:23,024 INFO main com.capgemini.go.dao.ProductDaoImpl - deleted products :11
+25 Feb 2020 09:52:43,824 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=12, price=12.0, color=12, dimension=121, specification=21, manufacturer=21, quantity=0, productCategory=12, productName=121]
+25 Feb 2020 09:59:46,263 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=12, price=12.0, color=121, dimension=212, specification=12, manufacturer=21, quantity=0, productCategory=2, productName=2]
+25 Feb 2020 09:59:58,453 INFO main com.capgemini.go.dao.ProductDaoImpl - edited products :12
+25 Feb 2020 10:02:28,293 INFO main com.capgemini.go.dao.ProductDaoImpl - edited products :12
+25 Feb 2020 11:09:40,515 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=12, price=12.0, color=12, dimension=12, specification=12, manufacturer=12, quantity=0, productCategory=12, productName=12]
+25 Feb 2020 11:09:52,769 INFO main com.capgemini.go.dao.ProductDaoImpl - edited products :12
+25 Feb 2020 11:10:29,642 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=12, price=23.0, color=45, dimension=6, specification=7, manufacturer=8, quantity=0, productCategory=9, productName=0]
+25 Feb 2020 11:24:17,707 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=1234, price=3333.0, color=red, dimension=fdsdf, specification=dfdfs, manufacturer=dfsaf, quantity=0, productCategory=22, productName=dsfdf]
+25 Feb 2020 11:26:39,043 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=1234, price=3333.0, color=red, dimension=fdsdf, specification=dfdfs, manufacturer=dfsaf, quantity=0, productCategory=22, productName=dsfdf]
+25 Feb 2020 11:29:10,578 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=1234, price=3333.0, color=red, dimension=fdsdf, specification=dfdfs, manufacturer=dfsaf, quantity=0, productCategory=22, productName=dsfdf]
+25 Feb 2020 11:32:33,239 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qw, price=22.0, color=re, dimension=fd, specification=fdf, manufacturer=gfg, quantity=0, productCategory=54, productName=ty]
+25 Feb 2020 11:35:25,518 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qw, price=23.0, color=re, dimension=tr, specification=yu, manufacturer=iu, quantity=0, productCategory=78, productName=uy]
+25 Feb 2020 12:52:48,249 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qw, price=23.0, color=qwe, dimension=rer, specification=tr, manufacturer=yr, quantity=0, productCategory=54, productName=er]
+25 Feb 2020 12:54:37,001 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qw, price=23.0, color=er, dimension=tr, specification=yt, manufacturer=uy, quantity=0, productCategory=76, productName=y]
+25 Feb 2020 12:55:49,040 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qw, price=32.0, color=er, dimension=yt, specification=uy, manufacturer=iu, quantity=0, productCategory=67, productName=yt]
+25 Feb 2020 12:57:18,327 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qw, price=23.0, color=r, dimension=t, specification=y, manufacturer=u, quantity=0, productCategory=67, productName=y]
+25 Feb 2020 13:01:49,999 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qw, price=34.0, color=r, dimension=t, specification=y, manufacturer=u, quantity=0, productCategory=76, productName=y]
+25 Feb 2020 13:04:30,575 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qw, price=23.0, color=e, dimension=r, specification=t, manufacturer=y6, quantity=0, productCategory=8, productName=y]
+25 Feb 2020 13:16:35,628 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=wq, price=2.0, color=e, dimension=r, specification=t, manufacturer=y, quantity=0, productCategory=6, productName=t]
+25 Feb 2020 13:29:10,323 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qw, price=2.0, color=ew, dimension=r, specification=t, manufacturer=y, quantity=0, productCategory=5, productName=gt]
+25 Feb 2020 13:31:25,361 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :null
+25 Feb 2020 14:41:39,768 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=123, price=234.0, color=red, dimension=large, specification=sdfdsf, manufacturer=dfsdf, quantity=0, productCategory=122, productName=fdsdf]
+25 Feb 2020 14:48:31,663 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=123, price=222.0, color=dsf, dimension=dsf, specification=sdf, manufacturer=sdf, quantity=0, productCategory=444, productName=dsffdf]
+25 Feb 2020 14:49:58,347 INFO main com.capgemini.go.dao.ProductDaoImpl - edited products :123
+25 Feb 2020 15:15:25,200 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qw, price=23.0, color=e, dimension=r, specification=t, manufacturer=y, quantity=0, productCategory=76, productName=y]
+25 Feb 2020 15:15:54,182 INFO main com.capgemini.go.dao.ProductDaoImpl - edited products :ProductDTO [productId=qw, price=34.0, color=t, dimension=h, specification=g, manufacturer=n, quantity=0, productCategory=97, productName=t]
+25 Feb 2020 15:17:32,439 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qw, price=12.0, color=e, dimension=r, specification=t, manufacturer=y, quantity=0, productCategory=54, productName=t]
+26 Feb 2020 11:04:19,841 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qw, price=23.0, color=r, dimension=t, specification=y, manufacturer=u, quantity=0, productCategory=65, productName=7]
+26 Feb 2020 11:06:33,160 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qw, price=23.0, color=r, dimension=t, specification=y, manufacturer=u, quantity=0, productCategory=6, productName=u]
+26 Feb 2020 11:06:48,823 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qw, price=23.0, color=r, dimension=t, specification=y, manufacturer=u, quantity=0, productCategory=9, productName=o]
+26 Feb 2020 11:11:46,113 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=as, price=23.0, color=v, dimension=b, specification=n, manufacturer=m, quantity=0, productCategory=7, productName=u]
+26 Feb 2020 11:14:09,720 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=cv, price=90.0, color=jh, dimension=gh, specification=kj, manufacturer=lk, quantity=0, productCategory=8, productName=t]
+26 Feb 2020 11:16:27,088 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=gf, price=4.0, color=n, dimension=m, specification=k, manufacturer=l, quantity=0, productCategory=6, productName=y]
+26 Feb 2020 11:16:55,837 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=we, price=56.0, color=t, dimension=y, specification=u, manufacturer=i, quantity=0, productCategory=0, productName=i]
+26 Feb 2020 11:20:24,759 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=vb, price=45.0, color=t, dimension=y, specification=u, manufacturer=i, quantity=0, productCategory=9, productName=io]
+26 Feb 2020 11:22:43,750 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qw, price=23.0, color=r, dimension=t, specification=y, manufacturer=u, quantity=0, productCategory=7, productName=u]
+26 Feb 2020 11:23:03,925 INFO main com.capgemini.go.dao.ProductDaoImpl - edited products :ProductDTO [productId=qw, price=45.0, color=b, dimension=v, specification=c, manufacturer=x, quantity=0, productCategory=4, productName=h]
+26 Feb 2020 11:25:35,142 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qw, price=4.0, color=a, dimension=s, specification=d, manufacturer=f, quantity=2, productCategory=8, productName=t]
+26 Feb 2020 11:27:22,318 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qw, price=43.0, color=r, dimension=t, specification=y, manufacturer=u, quantity=78, productCategory=0, productName=9]
+26 Feb 2020 11:31:51,093 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qa, price=23.0, color=v, dimension=f, specification=g, manufacturer=h, quantity=8, productCategory=9, productName=u]
+26 Feb 2020 11:34:11,188 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qf, price=65.0, color=y, dimension=u, specification=i, manufacturer=o, quantity=9, productCategory=89, productName=y]
+26 Feb 2020 11:41:12,836 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=qw, price=2.0, color=r, dimension=t, specification=y, manufacturer=u, quantity=7, productCategory=8, productName=i]
+26 Feb 2020 11:41:24,289 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=gh, price=45.0, color=d, dimension=f, specification=g, manufacturer=h, quantity=8, productCategory=0, productName=y]
+26 Feb 2020 11:44:10,786 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=565, price=565.0, color=56, dimension=56, specification=5, manufacturer=56, quantity=56, productCategory=56, productName=56]
+26 Feb 2020 11:44:33,921 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :ProductDTO [productId=88, price=88.0, color=88, dimension=88, specification=88, manufacturer=88, quantity=88, productCategory=88, productName=88]
+26 Feb 2020 11:46:01,082 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=56565, price=56565.0, color=565, dimension=965, specification=65, manufacturer=5, quantity=65, productCategory=56, productName=56
+26 Feb 2020 11:46:18,137 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=77, price=77.0, color=77, dimension=77, specification=77, manufacturer=77, quantity=77, productCategory=77, productName=77
+26 Feb 2020 11:47:23,202 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=55, price=55.0, color=55, dimension=55, specification=55, manufacturer=55, quantity=555, productCategory=55, productName=55
+26 Feb 2020 11:47:37,280 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=88, price=88.0, color=88, dimension=88, specification=88, manufacturer=88, quantity=88, productCategory=88, productName=88
+26 Feb 2020 12:46:05,832 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=qw, price=3.0, color=e, dimension=r, specification=t, manufacturer=y, quantity=4, productCategory=5, productName=f
+26 Feb 2020 12:46:59,206 INFO main com.capgemini.go.dao.ProductDaoImpl - edited products :
+ productId=qw, price=5.0, color=y, dimension=t, specification=u, manufacturer=i, quantity=9, productCategory=7, productName=i
+26 Feb 2020 12:57:43,872 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=1234, price=222.0, color=red, dimension=dddd, specification=ggg, manufacturer=hhh, quantity=22, productCategory=333, productName=dddd
+26 Feb 2020 13:01:05,384 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=1234, price=222.0, color=red, dimension=dddd, specification=ggg, manufacturer=hhh, quantity=22, productCategory=333, productName=dddd
+26 Feb 2020 13:06:32,652 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=qw, price=34.0, color=t, dimension=y, specification=u, manufacturer=i, quantity=87, productCategory=98, productName=y
+26 Feb 2020 13:06:38,826 INFO main com.capgemini.go.dao.ProductDaoImpl - deleted products :qw
+26 Feb 2020 13:10:15,403 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=qw, price=45.0, color=66, dimension=7, specification=8, manufacturer=9, quantity=9, productCategory=8, productName=8
+26 Feb 2020 13:10:35,530 INFO main com.capgemini.go.dao.ProductDaoImpl - edited products :
+ productId=qw, price=32.0, color=5, dimension=45, specification=65, manufacturer=76, quantity=87, productCategory=98, productName=65
+26 Feb 2020 13:10:47,450 INFO main com.capgemini.go.dao.ProductDaoImpl - deleted products :qw
+26 Feb 2020 13:59:23,379 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=23, price=23.0, color=32, dimension=32, specification=32, manufacturer=323, quantity=232, productCategory=232, productName=23
+26 Feb 2020 14:38:26,300 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=qw, price=2.0, color=r, dimension=t, specification=y, manufacturer=u, quantity=6, productCategory=7, productName=y
+26 Feb 2020 14:38:47,539 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=qw, price=2.0, color=3, dimension=45, specification=6, manufacturer=7, quantity=7, productCategory=7, productName=7
+26 Feb 2020 14:42:24,259 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=qw, price=2.0, color=r, dimension=t, specification=y, manufacturer=u, quantity=4, productCategory=5, productName=t
+26 Feb 2020 14:42:39,697 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=qw, price=3.0, color=r, dimension=t, specification=y, manufacturer=u, quantity=7, productCategory=8, productName=i
+26 Feb 2020 14:44:12,459 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=qw, price=23.0, color=e, dimension=r, specification=t, manufacturer=y, quantity=5, productCategory=6, productName=y
+26 Feb 2020 14:44:26,449 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=re, price=5.0, color=v, dimension=b, specification=n, manufacturer=m, quantity=5, productCategory=6, productName=g
+26 Feb 2020 15:33:14,178 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=w, price=4.0, color=r, dimension=t, specification=y, manufacturer=u, quantity=7, productCategory=8, productName=i
+26 Feb 2020 15:33:29,768 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=w, price=5.0, color=6, dimension=t, specification=y, manufacturer=u, quantity=7, productCategory=8, productName=i
+26 Feb 2020 15:34:27,514 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=w, price=2.0, color=e, dimension=r, specification=t, manufacturer=y, quantity=6, productCategory=7, productName=u
+26 Feb 2020 15:34:40,848 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=w, price=4.0, color=r, dimension=t, specification=t, manufacturer=t, quantity=6, productCategory=7, productName=yt
+26 Feb 2020 15:43:12,969 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=qw, price=3.0, color=4, dimension=56, specification=7, manufacturer=8, quantity=9, productCategory=7, productName=6
+26 Feb 2020 15:50:56,151 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=ghas, price=56.0, color=56, dimension=56, specification=5, manufacturer=56, quantity=56, productCategory=56, productName=56
+26 Feb 2020 16:11:27,610 INFO main com.capgemini.go.dao.ProductDaoImpl - deleted products :qw
+26 Feb 2020 17:02:05,358 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=1234, price=233.0, color=red, dimension=big, specification=good, manufacturer=dave, quantity=12, productCategory=22, productName=ssss
+26 Feb 2020 17:02:43,001 INFO main com.capgemini.go.dao.ProductDaoImpl - edited products :
+ productId=1234, price=500.0, color=blue, dimension=big, specification=good, manufacturer=dave, quantity=12, productCategory=22, productName=ssss
+26 Feb 2020 17:25:33,552 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=124, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=55, productName=name
+26 Feb 2020 17:26:51,536 INFO main com.capgemini.go.dao.ProductDaoImpl - edited products :
+ productId=123, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=54, productName=name
+26 Feb 2020 17:26:51,538 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=124, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=55, productName=name
+26 Feb 2020 17:27:57,592 INFO main com.capgemini.go.dao.ProductDaoImpl - edited products :
+ productId=123, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=54, productName=name
+26 Feb 2020 17:27:57,594 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=124, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=55, productName=name
+26 Feb 2020 17:27:57,595 INFO main com.capgemini.go.dao.ProductDaoImpl - deleted products :123
+27 Feb 2020 09:00:05,783 INFO main com.capgemini.go.dao.ProductDaoImpl - edited products :
+ productId=123, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=54, productName=name
+27 Feb 2020 09:00:05,786 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=124, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=55, productName=name
+27 Feb 2020 09:00:05,787 INFO main com.capgemini.go.dao.ProductDaoImpl - deleted products :123
+27 Feb 2020 09:08:46,897 INFO main com.capgemini.go.dao.ProductDaoImpl - edited products :
+ productId=123, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=54, productName=name
+27 Feb 2020 09:08:46,897 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=124, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=55, productName=name
+27 Feb 2020 09:08:46,897 INFO main com.capgemini.go.dao.ProductDaoImpl - deleted products :123
+27 Feb 2020 09:10:19,401 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=666, price=12.0, color=red, dimension=af, specification=af, manufacturer=af, quantity=12, productCategory=12, productName=sf
+27 Feb 2020 09:10:30,134 INFO main com.capgemini.go.dao.ProductDaoImpl - deleted products :666
+27 Feb 2020 10:44:40,979 INFO main com.capgemini.go.dao.ProductDaoImpl - edited products :
+ productId=123, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=54, productName=name
+27 Feb 2020 10:44:40,982 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=124, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=55, productName=name
+27 Feb 2020 10:44:40,983 INFO main com.capgemini.go.dao.ProductDaoImpl - deleted products :123
+27 Feb 2020 14:07:33,406 INFO main com.capgemini.go.dao.ProductDaoImpl - edited products :
+ productId=123, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=54, productName=name
+27 Feb 2020 14:07:33,408 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=124, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=55, productName=name
+27 Feb 2020 14:07:33,409 INFO main com.capgemini.go.dao.ProductDaoImpl - deleted products :123
+27 Feb 2020 14:08:01,610 INFO main com.capgemini.go.dao.ProductDaoImpl - edited products :
+ productId=123, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=54, productName=name
+27 Feb 2020 14:08:01,613 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=124, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=55, productName=name
+27 Feb 2020 14:08:01,614 INFO main com.capgemini.go.dao.ProductDaoImpl - deleted products :12377
+27 Feb 2020 14:08:55,500 INFO main com.capgemini.go.dao.ProductDaoImpl - edited products :
+ productId=123, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=54, productName=name
+27 Feb 2020 14:08:55,502 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=124, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=55, productName=name
+27 Feb 2020 14:08:55,503 INFO main com.capgemini.go.dao.ProductDaoImpl - deleted products :12377
+27 Feb 2020 14:10:03,087 INFO main com.capgemini.go.dao.ProductDaoImpl - edited products :
+ productId=123, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=54, productName=name
+27 Feb 2020 14:10:03,090 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=124, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=55, productName=name
+27 Feb 2020 14:10:03,091 INFO main com.capgemini.go.dao.ProductDaoImpl - deleted products :null
+27 Feb 2020 14:11:36,942 INFO main com.capgemini.go.dao.ProductDaoImpl - edited products :
+ productId=123, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=54, productName=name
+27 Feb 2020 14:11:36,944 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=124, price=12.0, color=col, dimension=dim, specification=spec, manufacturer=mfr, quantity=55, productCategory=55, productName=name
+27 Feb 2020 14:11:36,949 INFO main com.capgemini.go.dao.ProductDaoImpl - deleted products :null
+27 Feb 2020 14:17:18,961 INFO main com.capgemini.go.dao.ProductDaoImpl - added products :
+ productId=a4, price=12.0, color=red, dimension=big, specification=t, manufacturer=y, quantity=6, productCategory=5, productName=i
